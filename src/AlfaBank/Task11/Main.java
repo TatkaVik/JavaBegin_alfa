@@ -1,0 +1,8 @@
+package AlfaBank.Task11;
+
+public class Main {
+
+    public static void main(String[] args) {
+	System.out.println("Hello, students! ");
+    }
+}
